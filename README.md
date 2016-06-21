@@ -1,0 +1,2 @@
+# Others
+Outside of school.
