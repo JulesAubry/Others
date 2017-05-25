@@ -1,0 +1,7 @@
+c:\users\jules.aubry\documents\visual studio 2013\Projects\FirefoxCrack\FirefoxCrack\bin\Debug\FirefoxCrack.exe.config
+c:\users\jules.aubry\documents\visual studio 2013\Projects\FirefoxCrack\FirefoxCrack\bin\Debug\FirefoxCrack.exe
+c:\users\jules.aubry\documents\visual studio 2013\Projects\FirefoxCrack\FirefoxCrack\bin\Debug\FirefoxCrack.pdb
+c:\users\jules.aubry\documents\visual studio 2013\Projects\FirefoxCrack\FirefoxCrack\obj\Debug\FirefoxCrack.exe
+c:\users\jules.aubry\documents\visual studio 2013\Projects\FirefoxCrack\FirefoxCrack\obj\Debug\FirefoxCrack.pdb
+c:\users\jules.aubry\documents\visual studio 2013\Projects\FirefoxCrack\FirefoxCrack\bin\Debug\Newtonsoft.Json.dll
+c:\users\jules.aubry\documents\visual studio 2013\Projects\FirefoxCrack\FirefoxCrack\bin\Debug\Newtonsoft.Json.xml
