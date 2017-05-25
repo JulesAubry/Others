@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : L'accès au chemin d'accès 'c:\users\jules\documents\visual studio 2017\projects\keylogger\debug\keylogger.exe' est refusé.
+  stdafx.cpp
+  KeyLogger.cpp
+LINK : fatal error LNK1104: impossible d'ouvrir le fichier 'C:\Users\Jules\Documents\Visual Studio 2017\Projects\KeyLogger\Debug\KeyLogger.exe'
